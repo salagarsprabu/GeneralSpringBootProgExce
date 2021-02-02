@@ -11,12 +11,7 @@
 	<name>GeneralProgExec</name>
 	<description>GeneralProgExec project for Spring Boot</description>
 	
-	<groupId>sonar_test</groupId>
-  <artifactId>com.sonar.maven</artifactId>
-  <version>0.0.7-SNAPSHOT</version>
-  <packaging>jar</packaging>
-
-  <name>com.sonar.maven</name>
+	<name>com.sonar.maven</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
